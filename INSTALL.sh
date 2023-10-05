@@ -1,5 +1,5 @@
 # clone this repo (or just download it)
-wget https://github.com/stranger777/xkb-birman-layout.git
+# wget https://github.com/stranger777/xkb-birman-layout.git
 cd xkb-birman-layout
 
 # Create directory for your own layouts
